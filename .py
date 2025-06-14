@@ -12,7 +12,11 @@ if action == 3 :
     int(action)
 if action == 1:
     else:
-    print("Видимо у тебя в числе ошибка.Перезапусти программу и попробуй еще раз!")
+    print("--")
+
+
+
+#Simba_younger
 
 
 
