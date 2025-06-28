@@ -44,7 +44,7 @@ while True:
         print("Проверяем деньги и токены...")
         if money >= 200:
             print("Вы в спортзале. Вы тренируетесь, но теряете 200 токенов/рублей.")
-            money = money + 200
+            money = money - 200
             health = health + 100
             print("Итог тренировки: Здоровье —", health, "Деньги —", money)
         else:
